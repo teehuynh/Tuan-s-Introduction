@@ -8,3 +8,5 @@ Hiking, Playing the Guitar, Playing Computer Games
 
 Interests:
 Technology, Cars, and Sports
+
+Programming Background:
