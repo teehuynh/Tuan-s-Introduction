@@ -8,7 +8,7 @@ Hiking, Playing the Guitar, Playing Computer Games.  I play a computer called Le
 just start learning how to play the guitar.
 
 Interests:
-Technology, Cars, and Sports
+Technology, Cars, and Sports.  My favorite sports are football and basketball.
 
 Programming Background:
 I've taken about one year and a half of introduction to programming courses in my local community college.  I'm familiar
