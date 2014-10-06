@@ -15,3 +15,5 @@ with C++ and Java.  I'm really interested in web development and hope to someday
 
 My favorite program in CS 165 was the final project where we made our own entire program and I made a course
 schedule program in C++.
+
+I hope to make a great website by the end of this course.
